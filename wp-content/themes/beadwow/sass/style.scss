@@ -1,0 +1,19 @@
+/*
+Theme Name: BeadWow
+Author: Greg Gall
+Description: CSS Grid theme for BeadWow
+Version: 0.0.1
+Tags: css grid, responsive, forum, form subsmission, gallery, user accounts, user profiles, project subsmission, 
+*/
+
+@import "compass";
+@import "_modules/_variables";
+@import "_modules/_mixins";
+@import "_partials/_base";
+@import "_partials/_buttons";
+@import "_partials/_typography";
+
+.container {
+	background-color: blue;
+	font-size: 45px;
+}
